@@ -3,7 +3,7 @@
 <br>
 
 <div>
-  <a href="https://thiagomandrik.github.io/">
+  <a href="https://github.com/thiagomandrik/">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomandrik&layout=compact&theme=chartreuse-dark"/>
 </div>
 
