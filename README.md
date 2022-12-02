@@ -1,9 +1,15 @@
+
+
 # Ola! Sou Thiago Mandrik!
 <br>
 
+- 🎂 21 Anos.
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🚀 Em transição de carreira!
+- 🧑‍💼 4 anos de experiência em Gestão de Pessoas.
 
+<div align="center">
+  
 ## Ferramentas e Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" heigth="40"/>
@@ -29,4 +35,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomandrik&layout=compact&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagomandrik&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
-
+</div>
