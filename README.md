@@ -3,11 +3,8 @@
 # Ola! Sou Thiago Mandrik!
 <br>
 
-- 🎂 22 Anos.
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
-- 👨‍💻 Desenvolvedor Fullstack JR.
-- 🧑‍💼 4 anos de experiência em Gestão de Pessoas.
-
+- 📖 Engenharia de Software - USP/Esalq
+- 👨‍💻 Desenvolvedor Fullstack
 <div align="center">
   
 ## Ferramentas e Tecnologias
@@ -26,8 +23,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/thiago-mandrik" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://instagram.com/niedmandrik" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiagomandrik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thiago@mandrik.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 <br>
