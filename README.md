@@ -1,10 +1,13 @@
 
 
 # Ola! Sou Thiago Mandrik!
-<br>
 
-- 📖 Engenharia de Software - USP/Esalq
-- 👨‍💻 Desenvolvedor Fullstack
+### FullStack Developer
+### Graduado em Gestão de Recursos Humanos - Univali
+### MBA Engenharia de Software - USP/ESALQ
+
+
+</br>
 <div align="center">
   
 ## Ferramentas e Tecnologias
